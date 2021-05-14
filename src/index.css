@@ -1,0 +1,25 @@
+body{
+    background-color:#4c9839;
+    background-image:linear-gradient(to bottom right, #4c9839,#060d55);
+  
+}
+.design{
+    background-color:#dfd6d7;
+    min-height: 500px;
+    width:400px;
+    margin:40px auto;
+}
+.heading{
+    text-align: center;
+    font-style:italic;
+    font-size:50px ;
+    font-weight:100;
+    text-transform:uppercase;
+    color:#cc5323;
+    text-shadow: 2px 4px 4px whitesmoke;
+    box-sizing: border-box;
+    border-radius: 50px;
+    background:darkseagreen;
+    position:sticky;
+    top:0;
+}
